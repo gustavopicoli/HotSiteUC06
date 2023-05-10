@@ -1,0 +1,148 @@
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.exe
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.deps.json
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.json
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.dev.json
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.AssemblyReference.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfoInputs.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfo.cs
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cs
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Manifest.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Pack.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.Hotsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.Hotsite.props
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.Hotsite.props
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.Hotsite.props
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.input.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.output.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorCoreGenerate.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cs
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CopyComplete
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.File.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Formatting.Compact.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Sinks.Async.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Sinks.File.dll
+C:\Users\Gustavo Picoli\Desktop\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Sinks.RollingFile.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.exe
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.deps.json
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.json
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.dev.json
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.pdb
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.pdb
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Castle.Core.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.File.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Formatting.Compact.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Sinks.Async.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Sinks.File.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\Serilog.Sinks.RollingFile.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.AssemblyReference.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfoInputs.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfo.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CoreCompileInputs.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Manifest.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Pack.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.Hotsite.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.Hotsite.props
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.Hotsite.props
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.Hotsite.props
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.input.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.output.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorCoreGenerate.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cache
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cs
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.Views.pdb
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CopyComplete
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.dll
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.pdb
+D:\Nova pasta (2)\Técnico em Informática para Internet EAD\MO's\MÓDULO 2 - IPI\3 - UC06\HotSite MO\hotsite\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
